@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="21.0.0"><source path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/res"/></dataSet><dataSet config="main"><source path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res"><file name="ic_launcher" path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/values-w820dp/dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file><file name="ic_launcher" path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file name="list_item" path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/layout/list_item.xml" qualifiers="" type="layout"/><file name="activity_main_alarm" path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/layout/activity_main_alarm.xml" qualifiers="" type="layout"/><file name="grid_item" path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/layout/grid_item.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/values-v21/styles.xml" qualifiers="v21"><style name="AppTheme" parent="@android:style/Theme.Material.Light">
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <!-- your app branding color for the app bar -->
+        <item name="android:colorPrimary">@color/red</item>
+        <!-- darker variant for the status bar and contextual app bars -->
+        <item name="android:colorPrimaryDark">#d32f2f</item>
+        <!-- theme UI controls like checkboxes and text fields -->
+        <item name="android:colorAccent">#ffcdd2</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file name="main_alarm" path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/menu/main_alarm.xml" qualifiers="" type="menu"/><file path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/values/tags.xml" qualifiers=""><item name="TAG_HOUR" type="id"/><item name="TAG_SET" type="id"/></file><file path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/values/strings.xml" qualifiers=""><string name="action_settings">Settings</string><string name="app_name">Alarm Basic</string></file><file path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/main/res/values/color.xml" qualifiers=""><color name="red">#f44336</color><color name="pink">#e91e63</color><color name="violet">#ab47bc</color><color name="holo_blue">#33b5e5</color></file></source><source path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/build/generated/res/rs/debug"/><source path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/build/generated/res/generated/debug"/></dataSet><dataSet config="debug"><source path="/home/anoosh/AndroidstudioProjects/MyAlarm/app/src/debug/res"/></dataSet><mergedItems/></merger>

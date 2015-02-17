@@ -1,0 +1,4 @@
+/home/anoosh/AndroidstudioProjects/MyAlarm/app/build/intermediates/classes/debug
+/home/anoosh/AndroidstudioProjects/MyAlarm/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-227c9bf8b65ae595ddc6badd01082fb9e842b019.jar
+/home/anoosh/AndroidstudioProjects/MyAlarm/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-dae21a841174d026e83a2b757db54e36d46af573.jar
+/home/anoosh/AndroidstudioProjects/MyAlarm/app/build/intermediates/pre-dexed/debug/classes-6b19d9d0ef6e9ec6b112d77e4c0534f259e0b8e3.jar
